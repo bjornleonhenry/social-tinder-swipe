@@ -221,7 +221,7 @@ export function ShitpostSwiper() {
           <div className="w-8 h-8 bg-gradient-to-r from-pink-500 to-orange-500 rounded-lg flex items-center justify-center">
             <Heart className="w-5 h-5 text-white fill-white" />
           </div>
-          <h1 className="text-2xl font-bold text-black">Tinder for Social Media</h1>
+          <h1 className="text-2xl font-bold text-black">Tinder for Socials</h1>
         </div>
         <p className="text-center text-gray-600 text-sm">Swipe right to save • Swipe left to trash</p>
       </div>
